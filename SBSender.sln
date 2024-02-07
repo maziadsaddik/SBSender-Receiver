@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSender", "SBSender\SBSender.csproj", "{5ABBAFD9-6504-4F0D-8764-56A228AB6C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReceiver", "SBReceiver\SBReceiver.csproj", "{27851147-C504-496B-B343-688DE0F141F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ABBAFD9-6504-4F0D-8764-56A228AB6C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABBAFD9-6504-4F0D-8764-56A228AB6C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABBAFD9-6504-4F0D-8764-56A228AB6C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABBAFD9-6504-4F0D-8764-56A228AB6C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27851147-C504-496B-B343-688DE0F141F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27851147-C504-496B-B343-688DE0F141F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27851147-C504-496B-B343-688DE0F141F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27851147-C504-496B-B343-688DE0F141F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63A49237-544B-4649-A338-850D979C7AD8}
+	EndGlobalSection
+EndGlobal
